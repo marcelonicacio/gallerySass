@@ -1,1 +1,1 @@
-# Modelo de side galeria de fotos feito em Sass
+# Modelo de site galeria de fotos feito em Sass
